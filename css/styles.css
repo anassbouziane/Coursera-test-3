@@ -59,7 +59,7 @@ h3, h2 {
 
 /* XS screen */
 @media (max-width: 767px) {
-    /* Mobile menu styles (as provided above) */
+   
     .navbar-nav > li {
         width: 100%;
         text-align: center;
@@ -70,5 +70,4 @@ h3, h2 {
         padding: 10px;
     }
 
-    /* Additional mobile-specific styles can be added here */
 }
